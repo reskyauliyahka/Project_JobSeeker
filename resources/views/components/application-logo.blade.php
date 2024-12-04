@@ -1,0 +1,1 @@
+<img src="{{ asset('img/JobScout4.png') }}" class="h-36 rounded-full" alt="JobScout Logo" />
